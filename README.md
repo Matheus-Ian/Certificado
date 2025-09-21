@@ -13,7 +13,7 @@ Este repositório contém meu certificado de conclusão do curso realizado pela 
 
 ## 🖼️ Certificado Curso:
 
-![Certificado](assets<img width="1920" height="1080" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/ec9f9e92-6820-4c21-9fd2-25cf01a3e635" />
+<img width="1920" height="1080" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/ec9f9e92-6820-4c21-9fd2-25cf01a3e635" />
 
 
 ---
