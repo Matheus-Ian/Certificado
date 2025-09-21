@@ -1,6 +1,6 @@
 # Certificado - Curso Cisco Academy 🎓
 
-Este repositório contém meu certificado de conclusão do curso realizado pela **Unibrasília**.
+Repositório contém meu certificado de conclusão do curso realizado pela **Unibrasília**.
 
 ## 📜 Informações
 - **Nome:** Matheus Ian Vaz Da Silva
