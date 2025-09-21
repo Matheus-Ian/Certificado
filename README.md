@@ -3,10 +3,10 @@
 Este repositório contém meu certificado de conclusão do curso realizado pela **Unibrasília**.
 
 ## 📜 Informações
-- **Nome:** Seu Nome Aqui
+- **Nome:** Matheus Ian Vaz Da Silva
 - **Instituição:** Unibrasília
-- **Curso:** Nome do curso
-- **Data de conclusão:** DD/MM/AAAA
+- **Curso:** Engenharia de Software
+- **Data de conclusão:** 21/09/2025
 
 ---
 
