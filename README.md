@@ -7,7 +7,7 @@ Repositório contém meu certificado de conclusão do curso realizado pela **Uni
 - **Professor:** [Francismar Alves Martins Junior]( https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/?original_referer=https%3A%2F%2Fgithub.com%2Fdiogohrq%2FCertificadoCisco%3Ftab%3Dreadme-ov-file   )
 - **Cordenador:** [Guilherme Nogueira](https://www.instagram.com/nogueira_rcz?igsh=MWk4eHprZzhidXcyYw==)
 - **Instituição:** [Unibrasília Montes Belos](https://unibrasmontesbelos.com.br)
-- **Diciplina:**Arquitetura e Organização de Computadores
+- **Diciplina:** Arquitetura e Organização de Computadores
 - **Curso:** Engenharia de Software
 - **Data de conclusão:** 21/09/2025
 
