@@ -12,9 +12,9 @@ Este repositório contém meu certificado de conclusão do curso realizado pela 
 
 ## 🖼️ Certificado
 
-![Certificado Unibrasília](assets/certificado-unibrasilia.png)
+![Certificado Unibrasília](assets<img width="2000" height="2000" alt="1" src="https://github.com/user-attachments/assets/98112a84-aa94-47a5-b98e-0ac13c6decd0" />
+
 
 ---
 
-## 📂 Arquivos
-- [Visualizar PDF do certificado](document/certificado-unibrasilia.pdf)
+
