@@ -15,9 +15,11 @@ Repositório contém meu certificado de conclusão do curso realizado pela **Uni
 
 <img width="1920" height="1080" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/ec9f9e92-6820-4c21-9fd2-25cf01a3e635" />
 
-## 📂 Arquivos
-- [Visualizar PDF do certificado](CertificadoCurso(2).pdf](https://github.com/user-attachments/files/22454775/Computer_Hardware_Basics_certificate_matheusian340-gmail-com_c18674eb-3ba9-460d-8789-c32618ee2264.2.pdf)
-)
 ---
+
+## 📂 Arquivos
+
+- [Visualizar PDF do certificado]([Computer_Hardware_Basics_certificate_matheusian340-gmail-com_c18674eb-3ba9-460d-8789-c32618ee2264 (1).pdf](https://github.com/user-attachments/files/22454790/Computer_Hardware_Basics_certificate_matheusian340-gmail-com_c18674eb-3ba9-460d-8789-c32618ee2264.1.pdf)
+    )
 
 
