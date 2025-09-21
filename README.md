@@ -3,8 +3,8 @@
 Repositório contém meu certificado de conclusão do curso realizado pela **Unibrasília**.
 
 ## 📜 Informações
-- **Nome:** [Matheus Ian Vaz Da Silva] (https://www.instagram.com/thzinx_vaz?igsh=MTJqNnRyaTFqODJubw==)
-- **Professor:** Francismar 
+- **Nome:** Matheus Ian Vaz Da Silva (https://www.instagram.com/thzinx_vaz?igsh=MTJqNnRyaTFqODJubw==)
+- **Professor:** [Francismar](https://github.com/usuario)
 - **Instituição:** Unibrasília Montes Belos
 - **Curso:** Engenharia de Software
 - **Data de conclusão:** 21/09/2025
